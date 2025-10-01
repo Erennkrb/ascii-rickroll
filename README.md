@@ -14,7 +14,7 @@ Runs the classic **rickroll** as an ASCII animation right in your terminal — t
 ## Quick Start
 
 ```bash
-git clone https://github.com/yourname/ascii-rickroll.git
+git clone https://github.com/Erennkrb/ascii-rickroll.git
 cd ascii-rickroll
 chmod +x rickroll.sh
 ./rickroll.sh
