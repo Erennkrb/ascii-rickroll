@@ -14,7 +14,7 @@ Runs the classic **rickroll** as an ASCII animation right in your terminal — t
 ## Quick Start (Linux / macOS)
 
 ```bash
-git clone https://github.com/Erenkrbb/ascii-rickroll.git
+git clone https://github.com/Erennkrb/ascii-rickroll.git
 cd ascii-rickroll
 chmod +x rickroll.sh
 ./rickroll.sh
@@ -37,7 +37,7 @@ You can run this in [**Termux**](https://termux.dev/en/) too:
    ```
 4. Clone and run:
    ```bash
-   git clone https://github.com/Erenkrbb/ascii-rickroll.git
+   git clone https://github.com/Erennkrb/ascii-rickroll.git
    cd ascii-rickroll
    chmod +x rickroll.sh
    ./rickroll.sh
