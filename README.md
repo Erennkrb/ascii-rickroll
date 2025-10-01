@@ -3,7 +3,7 @@
 Runs the classic **rickroll** as an ASCII animation right in your terminal — totally offline once the frame file is present.
 
 <p align="center">
-  <a href="https://www.paypal.com/paypalme/Erenkrb"><b>💖 Donate via PayPal</b></a>
+  <a href="https://www.paypal.com/paypalme/Erenkrb"><b> Donate via PayPal</b></a>
 </p>
 
 ## Features
